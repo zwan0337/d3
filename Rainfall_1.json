@@ -1,0 +1,8 @@
+[{"Date":1,"Location":"Ballarat","Rainfall":39.4,"longitude":143.8,"latitude":-37.5},
+    {"Date":1,"Location":"Bendigo","Rainfall":32.4,"longitude":144.3,"latitude":-36.76},
+    {"Date":1,"Location":"Dartmoor","Rainfall":17.6,"longitude":141.27,"latitude":-37.9},
+    {"Date":1,"Location":"MelbourneAirport","Rainfall":44.8,"longitude":144.84,"latitude":-37.67},
+    {"Date":1,"Location":"Mildura","Rainfall":68.2,"longitude":142.1,"latitude":-34.23},
+    {"Date":1,"Location":"Nhil","Rainfall":37,"longitude":141.61,"latitude":-36.33},
+    {"Date":1,"Location":"Portland","Rainfall":27.4,"longitude":141.6,"latitude":-38.35},
+    {"Date":1,"Location":"Sale","Rainfall":104.8,"longitude":147,"latitude":-38.1}]
